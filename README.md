@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   - 🌱 I’m currently a software developer with 2+ yrs experience in Java, Spring Boot, Rest APIs, Angular, etc.
 
-  - 📫 You can contact me through : **sumedhsde@gmail.com**
+  - 📫 You can contact me at : **sumedhsde@gmail.com**
 
 
 <p><img align="cente<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Phoenix0021&theme=react&line_height=40&hide=css"/> </a>
